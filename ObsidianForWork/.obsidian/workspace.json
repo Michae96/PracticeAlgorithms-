@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "fd56d5b67d7c2b9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "571c9ea8715548e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f462a73c0fb02117",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "theory/Алгоритмы и структуры данных.canvas",
+                "viewState": {
+                  "x": 5607.210512135749,
+                  "y": -659.7567921637407,
+                  "zoom": -0.6326340228180394
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Алгоритмы и структуры данных"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1278274ea5bf2b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f609f43f4eff2596",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd4fce1aa24d0e39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "535d49c2eeb1cade",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "баланс ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d5fc5f6bd5b22ed6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5110321044922,
+    "collapsed": true
+  },
+  "right": {
+    "id": "adf2291af849772c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c5b83d838acaf53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70f17832374465b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Check lists/п.8 некорректный запрос АРМ в Платежах по Аккаунту.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для п.8 некорректный запрос АРМ в Платежах по Аккаунту"
+            }
+          },
+          {
+            "id": "7f2f582b213260bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Check lists/п.8 некорректный запрос АРМ в Платежах по Аккаунту.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из п.8 некорректный запрос АРМ в Платежах по Аккаунту"
+            }
+          },
+          {
+            "id": "1d3b5e4ef4760b0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "7db77e1135a8b3d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Check lists/п.8 некорректный запрос АРМ в Платежах по Аккаунту.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура п.8 некорректный запрос АРМ в Платежах по Аккаунту"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "f462a73c0fb02117",
+  "lastOpenFiles": [
+    "theory/Алгоритмы и структуры данных.canvas",
+    "theory/Без названия.md",
+    "theory/GIT.md",
+    "theory/Промпт шаблон.md",
+    "theory/Work flow.canvas",
+    "Check lists/п.8 некорректный запрос АРМ в Платежах по Аккаунту.md",
+    "Баг-репорт.md",
+    "theory/Баг-репорт.md",
+    "Check lists/Баги по кошельку DEV.md",
+    "theory/Шаблон промпта.md",
+    "theory/Флоу задач QA.md",
+    "theory/Стратегия.md",
+    "theory/Репорт. Баги по кошельку.md",
+    "theory/Регресс тест vs Смоук тест.md",
+    "theory/Популярные ИИ-инструменты для QA-тестирования.md",
+    "theory/Итерации тестирования.md",
+    "theory/Деплои и Релизы.md",
+    "theory/QA MAIN.md",
+    "theory/Learn plan.canvas",
+    "theory/Laboratory Report.md",
+    "ObsidianMain/Alternative Checkboxes (Icon Bullets).md",
+    "ObsidianMain",
+    "Новая папка",
+    "theory",
+    "Alternative Checkboxes (Icon Bullets).md",
+    "Шаблон промпта.md",
+    "Флоу задач QA.md",
+    "Стратегия.md",
+    "Регресс тест vs Смоук тест.md",
+    "Промпт шаблон.md",
+    "Популярные ИИ-инструменты для QA-тестирования.md",
+    "Pictures/Pasted image 20241204173238.png",
+    "Pictures/Pasted image 20241204172516.png",
+    "Pictures/Pasted image 20241204172510.png",
+    "Pictures/Pasted image 20241204172328.png",
+    "Pictures/Pasted image 20241204131747.png",
+    "Pictures/Pasted image 20241204131702.png",
+    "Pictures/Pasted image 20241204131326.png",
+    "Pictures/Pasted image 20241204131225.png",
+    "Pictures/Pasted image 20241204130647.png",
+    "Pictures/Pasted image 20241204124215.png",
+    "Work flow.canvas",
+    "Learn plan.canvas",
+    "Check lists/Разработка Android приложения",
+    "Check lists/Доработки по логам в АРМ/Доработки по логам в АРМ _ #86eqf8xfg.pdf",
+    "Check lists/Доработки по логам в АРМ/Репорт.Доработки по логам в АРМ.pdf",
+    "Check lists/Доработки по логам в АРМ/Доработки по логам в АРМ.pdf",
+    "Check lists/Частичные рефанды/рефакторинг_ оптимизация работы с реестрами _ #86eqd80z0.pdf",
+    "Check lists/Частичные рефанды/DevTry13_1732016250.csv",
+    "Check lists/Частичные рефанды/OperationRankON_1731931492.csv",
+    "Без названия 1.canvas",
+    "Без названия 3.canvas",
+    "Без названия 2.canvas"
+  ]
+}
